@@ -20,7 +20,6 @@ const urls = [
 	'https://forms.fillout.com/t/ai1szv2amEus',
 	'https://forms.fillout.com/t/44Kd47Z4oSus',
 	'https://forms.fillout.com/t/jeEhaXsoe6us',
-	'https://forms.fillout.com/t/gJLGhYpurzus',
 	'https://forms.fillout.com/t/5gmjnErHBgus',
 	'https://forms.fillout.com/t/taEftMawQvus'
 
